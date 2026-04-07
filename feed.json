@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Proyecto Flower Interactive",
+    "description": "",
+    "home_page_url": "https://int.proyectoflower.com",
+    "feed_url": "https://int.proyectoflower.com/feed.json",
+    "user_comment": "",
+    "icon": "https://int.proyectoflower.com/media/website/logo-pf-grande.png",
+    "author": {
+        "name": "CIRUSBMAX"
+    },
+    "items": [
+    ]
+}
